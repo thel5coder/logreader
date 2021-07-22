@@ -1,0 +1,7 @@
+127.0.0.1 user-identifier frank [22/Jul/2021:07:30:00 +0000] "GET /api/endpoint HTTP/1.0" 500 123
+127.0.0.1 user-identifier frank [22/Jul/2021:07:40:20 +0000] "GET /api/endpoint HTTP/1.0" 500 123
+127.0.0.1 user-identifier frank [22/Jul/2021:08:03:00 +0000] "GET /api/endpoint HTTP/1.0" 500 123
+127.0.0.1 user-identifier frank [22/Jul/2021:09:04:00 +0000] "GET /api/endpoint HTTP/1.0" 500 123
+127.0.0.1 user-identifier frank [22/Jul/2021:09:40:00 +0000] "GET /api/endpoint HTTP/1.0" 500 123
+127.0.0.1 user-identifier frank [22/Jul/2021:10:00:00 +0000] "GET /api/endpoint HTTP/1.0" 500 123
+127.0.0.1 user-identifier frank [22/Jul/2021:10:10:00 +0000] "GET /api/endpoint HTTP/1.0" 500 123
